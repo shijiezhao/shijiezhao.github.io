@@ -31,3 +31,7 @@ _MedRxiv_ (2020). doi: [doi.org/10.1101/2020.06.15.20117747](https://doi.org/10.
 Joerg Schnitzbauer, Yina Wang, **Shijie Zhao**, Matthew Bakalar, Tulip Nuwal, Baohui Chen, Bo Huang.  
 "Correlation analysis framework for localization-based superresolution microscopy."  
 _Proceedings of the National Academy of Sciences_ (2018). doi: [doi.org/10.1073/pnas.1711314115](https://doi.org/10.1073/pnas.1711314115).
+
+Yichen Shen, Nicholas C Harris, Scott Skirlo, Mihika Prabhu, Tom Baehr-Jones, Michael Hochberg, Xin Sun, **Shijie Zhao**, Hugo Larochelle, Dirk Englund, Marin Soljačić.  
+"Deep learning with coherent nanophotonic circuits."   
+_Nature Photonics_ (2017). doi: [doi.org/10.1038/nphoton.2017.93](https://doi.org/10.1038/nphoton.2017.93).
