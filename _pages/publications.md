@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -9,8 +8,10 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+## Academic publications
+
+**Shijie Zhao**, Tami D Lieberman, Mathilde Poyet, Kathryn M Kauffman, Sean M Gibbons, Mathieu Groussin, Ramnik J Xavier, Eric J Alm.  
+"Adaptive evolution within gut microbiomes of healthy people."   
+_Cell Host & Microbe_ (2019). doi: [10.1016/j.chom.2019.03.007] (https://doi.org/10.1016/j.chom.2019.03.007)
