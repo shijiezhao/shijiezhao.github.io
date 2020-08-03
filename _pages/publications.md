@@ -36,3 +36,6 @@ _Proceedings of the National Academy of Sciences_ (2018). doi: [doi.org/10.1073/
 Yichen Shen, Nicholas C Harris, Scott Skirlo, Mihika Prabhu, Tom Baehr-Jones, Michael Hochberg, Xin Sun, **Shijie Zhao**, Hugo Larochelle, Dirk Englund, Marin Soljačić.  
 "Deep learning with coherent nanophotonic circuits."   
 _Nature Photonics_ (2017). doi: [doi.org/10.1038/nphoton.2017.93](https://doi.org/10.1038/nphoton.2017.93).
+
+
+[Shijie Jay Zhao's Google Scholar Page](https://scholar.google.com/citations?user=2DUsuVYAAAAJ&hl=en)
