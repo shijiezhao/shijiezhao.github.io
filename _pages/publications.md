@@ -24,10 +24,10 @@ Ilana L Brito, Thomas Gurry, **Shijie Zhao**, Katherine Huang, Sarah K Young, Te
 "Transmission of human-associated microbiota along family and social networks."   
 _Nature Microbiology_ (2019). doi: [doi.org/10.1038/s41564-019-0409-6](https://doi.org/10.1038/s41564-019-0409-6).
 
-Fuqing Wu, Amy Xiao, Jianbo Zhang, Katya Moniz, Noriko Endo, Federica Armas, Richard Bonneau, Megan A Brown, Mary Bushman, Peter R Chai, Claire Duvallet, Timothy B Erickson, Katelyn Foppe, Newsha Ghaeli, Xiaoqiong Gu, William P Hanage, Katherine H Huang, Wei Lin Lee, Mariana Matus, Kyle A McElroy, Jonathan Nagler, Steven F Rhode, Mauricio Santillana, Joshua A Tucker, Stefan Wuertz, **Shijie Zhao**, Janelle Thompson, Eric J Alm.
+Fuqing Wu, Amy Xiao, Jianbo Zhang, Katya Moniz, Noriko Endo, Federica Armas, Richard Bonneau, Megan A Brown, Mary Bushman, Peter R Chai, Claire Duvallet, Timothy B Erickson, Katelyn Foppe, Newsha Ghaeli, Xiaoqiong Gu, William P Hanage, Katherine H Huang, Wei Lin Lee, Mariana Matus, Kyle A McElroy, Jonathan Nagler, Steven F Rhode, Mauricio Santillana, Joshua A Tucker, Stefan Wuertz, **Shijie Zhao**, Janelle Thompson, Eric J Alm.  
 "SARS-CoV-2 titers in wastewater foreshadow dynamics and clinical presentation of new COVID-19 cases."   
 _MedRxiv_ (2020). doi: [doi.org/10.1101/2020.06.15.20117747](https://doi.org/10.1101/2020.06.15.20117747).
 
-Joerg Schnitzbauer, Yina Wang, **Shijie Zhao**, Matthew Bakalar, Tulip Nuwal, Baohui Chen, Bo Huang.
-"Correlation analysis framework for localization-based superresolution microscopy."
+Joerg Schnitzbauer, Yina Wang, **Shijie Zhao**, Matthew Bakalar, Tulip Nuwal, Baohui Chen, Bo Huang.  
+"Correlation analysis framework for localization-based superresolution microscopy."  
 _Proceedings of the National Academy of Sciences_ (2018). doi: [doi.org/10.1073/pnas.1711314115](https://doi.org/10.1073/pnas.1711314115).
