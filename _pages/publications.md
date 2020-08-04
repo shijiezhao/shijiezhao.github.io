@@ -14,7 +14,7 @@ author_profile: true
 
 **Shijie Zhao**, Tami D Lieberman, Mathilde Poyet, Kathryn M Kauffman, Sean M Gibbons, Mathieu Groussin, Ramnik J Xavier, Eric J Alm.  
 "Adaptive evolution within gut microbiomes of healthy people."   
-_Cell Host & Microbe_ (2019). doi: [10.1016/j.chom.2019.03.007](https://doi.org/10.1016/j.chom.2019.03.007).  
+_Cell Host & Microbe_ (2019). doi: [10.1016/j.chom.2019.03.007](https://doi.org/10.1016/j.chom.2019.03.007). [BioRxiv](https://www.biorxiv.org/content/10.1101/208009v1).    
 Associated github: [shijiezhao/gut-evolution](https://github.com/shijiezhao/Within-person-evolution-of-Bacteroides-fragilis).   
 News reports: [MIT News](https://cee.mit.edu/professor-eric-j-alm-professor-tami-lieberman-and-graduate-student-shijie-zhao-publish-research-in-cell-host-microbe/). 
 
