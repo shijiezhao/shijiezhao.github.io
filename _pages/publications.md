@@ -17,7 +17,6 @@ author_profile: true
 _Cell Host & Microbe_ (2019). doi: [10.1016/j.chom.2019.03.007](https://doi.org/10.1016/j.chom.2019.03.007).  
 Associated github: [shijiezhao/gut-evolution](https://github.com/shijiezhao/Within-person-evolution-of-Bacteroides-fragilis). 
 News reports: [MIT News](https://cee.mit.edu/professor-eric-j-alm-professor-tami-lieberman-and-graduate-student-shijie-zhao-publish-research-in-cell-host-microbe/). 
-Associated github: [shijiezhao/gut-evolution](https://github.com/shijiezhao/Within-person-evolution-of-Bacteroides-fragilis). 
 
 M Poyet, M Groussin, SM Gibbons, J Avila-Pacheco, X Jiang, SM Kearney, AR Perrotta, B Berdy, **Shijie Zhao**, TD Lieberman, PK Swanson, M Smith, S Roesemann, JE Alexander, SA Rich, J Livny, H Vlamakis, C Clish, K Bullock, A Deik, J Scott, KA Pierce, RJ Xavier, EJ Alm.  
 "A library of human gut bacterial isolates paired with longitudinal multiomics data enables mechanistic microbiome research."   
