@@ -24,7 +24,7 @@ _Nature Medicine_ (2019). doi: [doi.org/10.1038/s41591-019-0559-3](https://doi.o
 
 Ilana L Brito, Thomas Gurry, **Shijie Zhao**, Katherine Huang, Sarah K Young, Terrence P Shea, Waisea Naisilisili, Aaron P Jenkins, Stacy D Jupiter, Dirk Gevers, Eric J Alm.  
 "Transmission of human-associated microbiota along family and social networks."   
-_Nature Microbiology_ (2019). doi: [doi.org/10.1038/s41564-019-0409-6](https://doi.org/10.1038/s41564-019-0409-6).
+_Nature Microbiology_ (2019). doi: [doi.org/10.1038/s41564-019-0409-6](https://doi.org/10.1038/s41564-019-0409-6). [BioRxiv](https://www.biorxiv.org/content/10.1101/540252v1).  
 
 Fuqing Wu, Amy Xiao, Jianbo Zhang, Katya Moniz, Noriko Endo, Federica Armas, Richard Bonneau, Megan A Brown, Mary Bushman, Peter R Chai, Claire Duvallet, Timothy B Erickson, Katelyn Foppe, Newsha Ghaeli, Xiaoqiong Gu, William P Hanage, Katherine H Huang, Wei Lin Lee, Mariana Matus, Kyle A McElroy, Jonathan Nagler, Steven F Rhode, Mauricio Santillana, Joshua A Tucker, Stefan Wuertz, **Shijie Zhao**, Janelle Thompson, Eric J Alm.  
 "SARS-CoV-2 titers in wastewater foreshadow dynamics and clinical presentation of new COVID-19 cases."   
@@ -39,4 +39,4 @@ Yichen Shen, Nicholas C Harris, Scott Skirlo, Mihika Prabhu, Tom Baehr-Jones, Mi
 _Nature Photonics_ (2017). doi: [doi.org/10.1038/nphoton.2017.93](https://doi.org/10.1038/nphoton.2017.93).
 
 
-[Shijie Jay Zhao's Google Scholar Page](https://scholar.google.com/citations?user=2DUsuVYAAAAJ&hl=en)
+[Shijie Jay Zhao's Google Scholar Link](https://scholar.google.com/citations?user=2DUsuVYAAAAJ&hl=en)
